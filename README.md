@@ -4,19 +4,22 @@
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
 
 
+
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
 
-- 🌱 I’m currently learning in **React.**
+
+- 🌱 I’m currently learning in **React/ Angular/ Dart.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://akdkavinda.com)** -->
 
 - 📫 How to reach me **akdkavinda@gmail.com**
   
 - 🎓 University - Sri Lanka Institute of Information Technology
+
+- 🔬 3rd year 2nd semester undergraduate, Bsc in IT
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
@@ -77,6 +80,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+    <img src="https://komarev.com/ghpvc/?username=akdkavinda">
 </a>
 <a href="https://github.com/akdkavinda?tab=followers"><img src="https://img.shields.io/github/followers/akdkavinda?label=Followers&style=social" alt="GitHub Badge"></a>

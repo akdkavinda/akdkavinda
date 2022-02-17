@@ -62,7 +62,7 @@
 
 
 <br/>
-
+<!--
 <div align='left'>
   <a href='#'>
     <img alt='Top Languages'
@@ -70,6 +70,7 @@
          height='200'/>
   </a>
 </div>
+-->
  
 <br/>
 

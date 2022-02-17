@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning in **React/ Angular/ Dart.**
+- 🌱 I’m currently learning in **React/ Angular/ docker.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 

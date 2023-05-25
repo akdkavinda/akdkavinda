@@ -19,9 +19,9 @@
   
 - 🎓 University - Sri Lanka Institute of Information Technology
 
-- 🔬 3rd year 2nd semester undergraduate, Bsc in IT
+- 🔬 4th year undergraduate, Bsc in IT
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play games very often.**
 
 ## 🚀 Languages and Tools:
 
